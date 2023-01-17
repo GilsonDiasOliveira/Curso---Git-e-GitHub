@@ -1,3 +1,3 @@
-# Curso Git e GitHub
+# Curso Git - GitHub
 
 ```Repositório somente para fins de estudo```
